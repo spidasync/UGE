@@ -9,14 +9,14 @@ Crosshair Engine is a completely open-source and free to work with as well as pr
 # Technical Details
 
 ## Libraries Used
-ctypes
-tkinter
-os
-json
-math
-time
-itertools
-pathlib
+- ctypes
+- tkinter
+- os
+- json
+- math
+- time
+- itertools
+- pathlib
 
 # Documentation
 **View documentation.md in the project files**
