@@ -5,3 +5,4 @@
 Crosshair Engine is a completely open-source and free to work with as well as providing a simplified, intutitive development environment.
 
 # Documentation
+**View documentation.md in the project files**
