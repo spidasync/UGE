@@ -3,8 +3,8 @@
 
 <img width="500" height="500" alt="LogoBlackBG" src="https://github.com/user-attachments/assets/45029abc-5cb5-4790-b333-284f5a68df32" />
 
-# Why should I use Crosshair Engine over Unity or GameMaker?
-Crosshair Engine is a completely open-source and free to work with as well as providing a simplified, intutitive development environment.
+# Why should I use CEngine over Unity or GameMaker?
+CEngine is a completely open-source and free to work with as well as providing a simplified, intutitive development environment.
 
 # Technical Details
 
